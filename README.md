@@ -1,2 +1,2 @@
 # writinghelp
-https://sadhbhh.github.io/writinghelp/
+https://stjrush.github.io/writinghelp/
